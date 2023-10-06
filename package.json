@@ -1,7 +1,7 @@
 {
-  "name": "cyclone-web_proxy",
+  "name": "cyclone",
   "version": "1.0.0",
-  "description": "An incredibly fast proxy that provides great support for websites",
+  "description": "An incredibly fast web that provides great support for websites",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
